@@ -102,7 +102,9 @@ How to Use
 
 Clone this repository to your local machine:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/your-username/Machine-Learning-Implementing-Classification-Clustering-and-Anomaly-Detection.git  cd Machine-Learning-Implementing-Classification-Clustering-and-Anomaly-Detection   `
+`git clone https://github.com/your-username/Machine-Learning-Implementing-Classification-Clustering-and-Anomaly-Detection.git`
+
+`cd Machine-Learning-Implementing-Classification-Clustering-and-Anomaly-Detection`
 
 Run the provided Jupyter Notebooks and Python scripts to reproduce and explore the experiments.
 
@@ -111,7 +113,7 @@ Installation
 
 Ensure Python 3.x is installed. Install required packages using:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install numpy pandas scikit-learn matplotlib seaborn tensorflow keras   `
+`pip install numpy pandas scikit-learn matplotlib seaborn tensorflow keras`
 
 Author
 ------
